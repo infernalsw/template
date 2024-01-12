@@ -1,12 +1,6 @@
-[submodule "eslint-config-infernal"]
-	path = eslint-config-infernal
-	url = https://github.com/kaylendog/eslint-config-infernal.git
-[submodule "prettier-config-infernal"]
-	path = prettier-config-infernal
-	url = https://github.com/kaylendog/prettier-config-infernal.git
 [submodule "packages/eslint-config-infernal"]
-	path = packages/eslint-config-infernal
-	url = https://github.com/kaylendog/eslint-config-infernal.git
+path = packages/eslint-config-infernal
+url = https://github.com/kaylendog/eslint-config-infernal.git
 [submodule "packages/prettier-config-infernal"]
-	path = packages/prettier-config-infernal
-	url = https://github.com/kaylendog/prettier-config-infernal.git
+path = packages/prettier-config-infernal
+url = https://github.com/kaylendog/prettier-config-infernal.git
